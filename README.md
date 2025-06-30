@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a simple demonstration of basic HTML skills. It showcases how to structure content and create functional web pages using standard HTML elements. Built as part of The Odin Project curriculum, it also reinforces a deeper understanding of working with Git and GitHub.
